@@ -9,6 +9,10 @@
   "keywords": ["SDR", "GQRX"],
   "author": "Brandon Farmer <bthesorceror@gmail.com>",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bthesorceror/gqrx-node.git"
+  },
   "devDependencies": {
     "eslint": "^6.1.0",
     "eslint-config-standard": "^13.0.1",
